@@ -8,11 +8,14 @@
   "frontend-design": ".claude/skills/frontend-design",
   "humanizer": ".claude/skills/humanizer",
   "lavish": ".claude/skills/lavish",
+  "markline-review": ".codex/skills/markline-review",
+  "morador-tempor-rio": "grok-bot",
   "orchestrate": ".claude/skills/orchestrate",
+  "owasp-security": ".codex/skills/owasp-security",
   "po": ".claude/skills/po",
   "qa": ".claude/skills/qa",
   "rails": ".claude/skills/rails",
+  "roteiro-esfregado": "grok-bot",
   "seo-geo-aeo": ".claude/skills/seo-geo-aeo",
-  "markline-review": ".codex/skills/markline-review",
-  "owasp-security": ".codex/skills/owasp-security"
+  "verbete-de-avalia-o-franca": "grok-bot"
 }

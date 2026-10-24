@@ -35,12 +35,15 @@ To undo the initial migration, remove the links created by the installer and mov
 - `humanizer`
 - `lavish`
 - `markline-review`
+- `morador-tempor-rio`
 - `orchestrate`
 - `owasp-security`
 - `po`
 - `qa`
 - `rails`
+- `roteiro-esfregado`
 - `seo-geo-aeo`
+- `verbete-de-avalia-o-franca`
 
 `sources.json` records each skill's original local path. Supporting files and existing license notices are preserved. No repository-wide license is added for imported third-party material.
 
