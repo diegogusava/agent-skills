@@ -1,0 +1,6 @@
+interface:
+  display_name: "Dev"
+  short_description: "Build a scoped change with verified behavior"
+  default_prompt: "Use $dev to implement this scoped change."
+policy:
+  allow_implicit_invocation: false

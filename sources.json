@@ -1,0 +1,18 @@
+{
+  "blueprint": ".claude/skills/blueprint",
+  "breakdown": ".claude/skills/breakdown",
+  "bugfix": ".claude/skills/bugfix",
+  "commit": ".claude/skills/commit",
+  "decision-gate": ".claude/skills/decision-gate",
+  "dev": ".claude/skills/dev",
+  "frontend-design": ".claude/skills/frontend-design",
+  "humanizer": ".claude/skills/humanizer",
+  "lavish": ".claude/skills/lavish",
+  "orchestrate": ".claude/skills/orchestrate",
+  "po": ".claude/skills/po",
+  "qa": ".claude/skills/qa",
+  "rails": ".claude/skills/rails",
+  "seo-geo-aeo": ".claude/skills/seo-geo-aeo",
+  "markline-review": ".codex/skills/markline-review",
+  "owasp-security": ".codex/skills/owasp-security"
+}

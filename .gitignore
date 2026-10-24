@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local skills stay available to both agents without being published.
+skills/ai-memory-*/

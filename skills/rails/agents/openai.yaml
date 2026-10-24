@@ -1,0 +1,6 @@
+interface:
+  display_name: "Rails"
+  short_description: "Make Rails changes that fit the application"
+  default_prompt: "Use $rails to implement this Rails change."
+policy:
+  allow_implicit_invocation: false
