@@ -5,6 +5,7 @@
   "commit": ".claude/skills/commit",
   "decision-gate": ".claude/skills/decision-gate",
   "dev": ".claude/skills/dev",
+  "exploraai-content": "chatgpt-upload",
   "frontend-design": ".claude/skills/frontend-design",
   "humanizer": ".claude/skills/humanizer",
   "lavish": ".claude/skills/lavish",

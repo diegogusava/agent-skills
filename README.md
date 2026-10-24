@@ -31,6 +31,7 @@ To undo the initial migration, remove the links created by the installer and mov
 - `commit`
 - `decision-gate`
 - `dev`
+- `exploraai-content`
 - `frontend-design`
 - `humanizer`
 - `lavish`
