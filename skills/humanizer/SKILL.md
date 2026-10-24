@@ -147,7 +147,7 @@ Repare: a informação é a mesma. O que mudou foi que agora tem alguém falando
 - Adjetivos vazios: "incrível", "imperdível", "paradisíaco", "de tirar o fôlego". Troque por um detalhe concreto.
 - Travessões (—) em excesso. Prefira vírgula, ponto ou parênteses.
 - Neutralidade total. Se o texto nunca escolhe nada, não ajuda ninguém.
-- Palavras difíceis ou rebuscadas: "praias agrestes", "inscrições rupestres", "numa" em excesso, "outrossim". Use o que a pessoa falaria: "praias selvagens, sem estrutura", "pinturas nas pedras feitas há milhares de anos", "em uma".
+- Palavras difíceis ou rebuscadas: "praias agrestes", "inscrições rupestres", "numa" em excesso, "outrossim". Use o que a pessoa falaria: "praias desertas, quase sem construção", "pinturas nas pedras feitas há milhares de anos", "em uma".
 
 ## SEO sem matar a voz
 
